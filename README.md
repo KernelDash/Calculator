@@ -1,1 +1,2 @@
-A clean Calculator in HTML, Css and JS.
+A clean Calculator in HTML, CSS and JS.
+Live at https://kerneldash.github.io/Calculator/
